@@ -11,6 +11,10 @@
   <img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
    <img alt="CLion" src="https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+
 </p>
 </p>
 
