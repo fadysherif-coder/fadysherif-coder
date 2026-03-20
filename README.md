@@ -41,5 +41,3 @@
   <a href="https://www.linkedin.com/in/fadysherif" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!<br/>Last refresh: Friday, 20 March, 12:56 EET</p>
