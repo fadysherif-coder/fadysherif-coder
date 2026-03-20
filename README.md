@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <b>Fady Sherif</b>,student at Don Bosco Salesian Institute , Cairo, Egypt 🇪🇬. </p>
+<p>Welcome to my page! </br> I'm <b>Fady Sherif</b>, student at Don Bosco Salesian Institute , Cairo, Egypt 🇪🇬. </p>
 
 <h3>💻 Things I study & code with</h3>
 <p>
@@ -38,5 +38,8 @@
 
 <h3>🌐 Where to find me</h3>
 <p>
-  <a href="https://github.com/fadysherif-coder" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/fadysherif" target="_blank">
+  <a href="https://www.linkedin.com/in/fadysherif" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+------------
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!<br/>Last refresh: Friday, 20 March, 12:56 EET</p>
