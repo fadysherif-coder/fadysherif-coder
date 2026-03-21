@@ -76,7 +76,7 @@
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-<a href="https://wa.me/01205415757" target="_blank">
+<a href="https://wa.me/201205415757" target="_blank">
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
