@@ -60,11 +60,19 @@
   </tbody>
 </table>
 
+
+
+
+### 📊 My GitHub Stats
+![Fady's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadysherif-coder&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadysherif-coder&layout=compact&theme=dark)
+
+---
 <h3>📖 My Motivation</h3>
 <p><i>"Keep learning, keep building, and never stop exploring new ideas."</i></p>
-
 <h3>🌐 Where to find me</h3>
 <p>
   <a href="https://www.linkedin.com/in/fadysherif" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
 
