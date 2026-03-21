@@ -26,17 +26,37 @@
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
+  
+  
   </thead>
   <tbody>
     <tr>
-      <td><b>Coming soon...</b></td>
-      <td>✨</td>
-      <td>✨</td>
-      <td>✨</td>
-      <td>✨</td>
+      <td><b>Insertion-sort</b></td>
+      <td><b>✨✨</b></td>
+       <td><b>✨</b></td>
+        <td><b>✨✨✨✨✨</b></td>
     </tr>
+     <tr>
+      <td><b>Calculator</b></td>
+      <td><b>✨✨✨</b></td>
+       <td><b>✨</b></td>
+        <td><b>✨✨✨✨</b></td>
+    </tr>
+     <tr>
+      <td><b>Calculator in Html</b></td>
+      <td><b>✨✨</b></td>
+       <td><b>✨</b></td>
+        <td><b>✨✨</b></td>
+    </tr>
+   <tr>
+      <td><b>The average</b></td>
+      <td><b>✨✨</b></td>
+       <td><b>✨</b></td>
+        <td><b>✨</b></td>
+    </tr>
+ 
+      
+
   </tbody>
 </table>
 
