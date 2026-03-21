@@ -34,13 +34,13 @@
       <td><b>Insertion-sort</b></td>
       <td><b>✨✨</b></td>
        <td><b>✨</b></td>
-        <td><b>✨✨✨✨✨</b></td>
+        <td><b>✨✨✨✨</b></td>
     </tr>
      <tr>
       <td><b>Calculator</b></td>
       <td><b>✨✨✨</b></td>
        <td><b>✨</b></td>
-        <td><b>✨✨✨✨</b></td>
+        <td><b>✨✨✨✨✨</b></td>
     </tr>
      <tr>
       <td><b>Calculator in Html</b></td>
