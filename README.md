@@ -72,11 +72,18 @@
 <p><i>"Keep learning, keep building, and never stop exploring new ideas."</i></p>
 <h3>🌐 Where to find me</h3>
 <p>
-  <a href=https://www.linkedin.com/in/fady-sherif-559642309/ target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://wa.me/01205415757" target="_blank">
-  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-   <a href=https://www.facebook.com/fady.elkhwaga.54="_blank"><img alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/fady-sherif-559642309/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+<a href="https://wa.me/01205415757" target="_blank">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+
+<a href="https://www.facebook.com/fady.elkhwaga.54" target="_blank">
+  <img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+
+
 </p>
 
 
