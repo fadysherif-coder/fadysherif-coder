@@ -25,41 +25,40 @@
       <td><b>📂 Project</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
+      
   
   
   </thead>
-  <tbody>
+  <body>
+  <table>
     <tr>
-      <td><b>Insertion-sort</b></td>
-      <td><b>✨✨</b></td>
-       <td><b>✨</b></td>
-        <td><b>✨✨✨✨</b></td>
+      <th>Project</th>
+      <th>Stars</th>
+      <th>Forks</th>
     </tr>
-     <tr>
-      <td><b>Calculator</b></td>
-      <td><b>✨✨✨</b></td>
-       <td><b>✨</b></td>
-        <td><b>✨✨✨✨✨</b></td>
+    <tr>
+      <td>Insertion-sort</td>
+      <td>✨✨✨</td>
+      <td>✨</td>
     </tr>
-     <tr>
-      <td><b>Calculator in Html</b></td>
-      <td><b>✨✨</b></td>
-       <td><b>✨</b></td>
-        <td><b>✨✨</b></td>
+    <tr>
+      <td>Calculator</td>
+      <td>✨✨✨✨</td>
+      <td>✨</td>
     </tr>
-   <tr>
-      <td><b>The average</b></td>
-      <td><b>✨✨</b></td>
-       <td><b>✨</b></td>
-        <td><b>✨</b></td>
+    <tr>
+      <td>Calculator in Html</td>
+      <td>✨✨✨✨</td>
+      <td>✨</td>
     </tr>
- 
-      
+    <tr>
+      <td>The average</td>
+      <td>✨✨✨</td>
+      <td>✨</td>
+    </tr>
 
-  </tbody>
 </table>
-
+</body>
 
 
 
