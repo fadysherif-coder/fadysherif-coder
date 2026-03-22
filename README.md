@@ -6,7 +6,6 @@
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
@@ -21,20 +20,13 @@
 <h3>🎁 My Projects</h3>
 <table>
   <thead align="center">
-    <tr>
-      <td><b>📂 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      
-  
-  
   </thead>
   <body>
   <table>
     <tr>
-      <th>Project</th>
-      <th>Stars</th>
-      <th>Forks</th>
+      <th>📂Project</th>
+      <th>⭐Stars</th>
+      <th>📚Forks</th>
     </tr>
     <tr>
       <td>Insertion-sort</td>
@@ -79,8 +71,8 @@
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
-<a href="https://www.facebook.com/fady.elkhwaga.54" target="_blank">
-  <img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.messenger.com/t/100049454370378" target="_blank">
+  <img alt="messenger" src="https://img.shields.io/badge/massenger-00B2FF?.svg?&style=for-the-badge&logo=Massenger&logoColor=white" height="40" /></a>
 
 
 </p>
