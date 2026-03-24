@@ -29,7 +29,7 @@
       <th>📚Forks</th>
     </tr>
     <tr>
-      <td>The average</td>
+      <td>Js-average-calculator</td>
       <td>✨</td>
       <td>✨</td>
     </tr>
