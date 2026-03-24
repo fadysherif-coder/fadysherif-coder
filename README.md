@@ -26,22 +26,19 @@
     <tr>
       <th>📂Project</th>
       <th>⭐Stars</th>
-      <th>📚Forks</th>
     </tr>
     <tr>
       <td>Js-average-calculator</td>
       <td>✨</td>
-      <td>✨</td>
     </tr>
     <tr>
       <td>Geomatric shapes calculator</td>
-      <td>✨✨</td>
-      <td>✨</td>
+      <td>✨✨✨</td>
     </tr>
     <tr>
       <td>Calculator in Html</td>
       <td>✨✨</td>
-      <td>✨</td>
+    
   
 </table>
 </body>
