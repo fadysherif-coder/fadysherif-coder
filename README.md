@@ -29,26 +29,20 @@
       <th>📚Forks</th>
     </tr>
     <tr>
-      <td>Insertion-sort</td>
-      <td>✨✨✨</td>
+      <td>The average</td>
+      <td>✨</td>
       <td>✨</td>
     </tr>
     <tr>
-      <td>Calculator</td>
-      <td>✨✨✨✨</td>
+      <td>Geomatric shapes calculator</td>
+      <td>✨✨</td>
       <td>✨</td>
     </tr>
     <tr>
       <td>Calculator in Html</td>
-      <td>✨✨✨✨</td>
+      <td>✨✨</td>
       <td>✨</td>
-    </tr>
-    <tr>
-      <td>The average</td>
-      <td>✨✨✨</td>
-      <td>✨</td>
-    </tr>
-
+  
 </table>
 </body>
 
