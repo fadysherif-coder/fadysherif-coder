@@ -7,11 +7,13 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+   <img alt="Css" src="https://img.shields.io/badge/-Css-ff0000?style=flat-square&logo=Css&logoColor=white" />
   <img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
    <img alt="CLion" src="https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
  
 </p>
 </p>
